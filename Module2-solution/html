@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>Modle 2 solution</head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
   <body>
     <h1>this is a page for my css assignment</h1>
+    <div class="container">
+      <div class="selection">Section1:Lorem ipsum...</div>
+        <div class="section">Section 2: Lorem ipsum...</div>
+        <div class="section">Section 3: Lorem ipsum...</div>
+    </div>
   </body>
 </html>
