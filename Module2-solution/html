@@ -4,10 +4,17 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
   <body>
     <h1>this is a page for my css assignment</h1>
-    <div class="container">
-      <div class="selection">Section1:Lorem ipsum...</div>
-        <div class="section">Section 2: Lorem ipsum...</div>
-        <div class="section">Section 3: Lorem ipsum...</div>
+    <div class = "section" id="section1">
+      <div class = "section-title">Chiken</div>
+      <p>Lorem ipsum...</p>
+    </div>
+    <div class="section" id="section2">
+        <div class="section-title">Beef</div>
+        <p>Lorem ipsum...</p>
+    </div>
+    <div class="section" id="section3">
+        <div class="section-title">Sushi</div>
+        <p>Lorem ipsum...</p>
     </div>
   </body>
 </html>
